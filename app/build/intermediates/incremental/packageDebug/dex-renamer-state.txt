@@ -1,4 +1,4 @@
-#Mon Nov 07 16:04:35 CST 2016
+#Mon Nov 07 18:35:48 CST 2016
 base.0=/Users/zhoujianzheng/Desktop/water/project/BLE/BLEGATT1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_41c9f5f6382b4f3e29bbe57f5a38c339b28715da
 renamed.1=classes.dex
 renamed.0=classes2.dex

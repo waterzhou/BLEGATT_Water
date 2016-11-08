@@ -1,13 +1,13 @@
 #Internal package file, do not edit.
-#Fri Nov 04 18:45:58 CST 2016
+#Mon Nov 07 18:21:08 CST 2016
 2.base=/Users/zhoujianzheng/Desktop/water/project/BLE/BLEGATT1/app/build/intermediates/res/resources-debug.ap_
 5.file=/Users/zhoujianzheng/Desktop/water/project/BLE/BLEGATT1/app/build/intermediates/res/resources-debug.ap_/res/menu/gatt_services.xml
 5.set=ANDROID_RESOURCE
 3.base=/Users/zhoujianzheng/Desktop/water/project/BLE/BLEGATT1/app/build/intermediates/res/resources-debug.ap_
-6.file=/Users/zhoujianzheng/Desktop/water/project/BLE/BLEGATT1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+6.file=/Users/zhoujianzheng/Desktop/water/project/BLE/BLEGATT1/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
 2.set=ANDROID_RESOURCE
 4.base=/Users/zhoujianzheng/Desktop/water/project/BLE/BLEGATT1/app/build/intermediates/res/resources-debug.ap_
-7.file=/Users/zhoujianzheng/Desktop/water/project/BLE/BLEGATT1/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+7.file=/Users/zhoujianzheng/Desktop/water/project/BLE/BLEGATT1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
 7.set=ANDROID_RESOURCE
 count=8
 0.file=/Users/zhoujianzheng/Desktop/water/project/BLE/BLEGATT1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
